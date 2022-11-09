@@ -168,7 +168,7 @@ const Highlight = styled.span`
 `;
 
 const Main = styled.main`
-  padding: 6rem 8rem;
+  max-width: 800px;
 `;
 
 const Description = styled.p`
