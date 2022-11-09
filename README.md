@@ -33,7 +33,6 @@ The interface should be relatively intuitive, you press the up button to guess t
 - All relevant code is located within pages/index.js and the 'hooks' folder
 - I have used [styled components](https://styled-components.com/) to style the app apart from a few existing styles from the create-next-app bootstrap
 - The app will remember your score based on local storage. e.g same browser and device. THIS ONLY WORKS ON PRODUCTION.
-- A sound will play depending on whether the guess was correct or not
 
 ## Time Limitations
 
