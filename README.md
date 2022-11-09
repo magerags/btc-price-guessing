@@ -41,6 +41,7 @@ With more time I would have implemented the following:
 - Unit tests using Jest
 - Moved the game section into it's own component
 - Shown a history of guesses
+- Optimise for Mobile
 
 ## Backend Data Store
 
