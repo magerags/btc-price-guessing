@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-The app is deployed at btcguesser.tomwhittl.com
+The app is deployed at btcguesser.tomwhittl.com (running on Netlify)
 
 or you can run it locally as detailed below:
 
